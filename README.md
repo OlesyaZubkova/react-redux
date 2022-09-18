@@ -1,10 +1,6 @@
 Redux
 ===
+[![Build status](https://ci.appveyor.com/api/projects/status/johcd1uu6rls6uy1?svg=true)](https://ci.appveyor.com/project/OlesyaZubkova/react-redux)
 
-Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Редактирование](editing)
-1. [Фильтрация](filter)
-1. [Маркет](market) - необязательное задание
-
-Первые два задания лучше сдавать в одном проекте (один create-react-app), так как второе задание продолжает идеи первого. 
+https://olesyazubkova.github.io/react-redux/
